@@ -5,6 +5,7 @@
 **This project has a [Code of Conduct][].**
 
 ## Table of contents
+# Yash Singh
 
 * [Installation](#Installation)
 * [Features](#Features)
